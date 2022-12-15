@@ -11221,8 +11221,8 @@ p {
       transform: translate(-50%, -50%);
   width: 100%;
 }
-
-.portfolio-card:hover .portfolio-card-overlay {
+/* iza .portfolio-card:hover - da bi bilo prelaskom misa druga boja  */
+.portfolio-card:hover .portfolio-card-overlay {   
   opacity: 1;
   visibility: visible;
   width: 100%;
@@ -11367,6 +11367,8 @@ p {
   width: 90px;
   height: 90px;
   border-radius: 50%;
+  border-style: solid;
+  border-color: #ececec;
 }
 
 .testimonial-card-body {
