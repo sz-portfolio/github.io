@@ -12072,7 +12072,7 @@ pre .code {
   -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
-  max-width: 550px;
+  max-width: 850px;
 }
 
 .header .header-content .header-title .up {
@@ -12232,3 +12232,7 @@ pre .code {
   margin-top: 50px;
 }
 
+.flag{
+  
+margin-left: 10px;
+}
